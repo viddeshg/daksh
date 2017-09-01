@@ -1,0 +1,16 @@
+.hero .hero-head .container .nav-left a:hover {
+  color: rgba(255, 255, 255, 0.8) !important; }
+.hero .hero-head .container .nav-left .navbar-item {
+  padding: 0.6rem !important; }
+  .hero .hero-head .container .nav-left .navbar-item i {
+    color: white !important; }
+  .hero .hero-head .container .nav-left .navbar-item a:hover i {
+    color: rgba(255, 255, 255, 0.8) !important; }
+
+.tabs ul li a {
+  font-family: 'Raleway', sans-serif !important; }
+
+.footerName a:hover {
+  color: rgba(54, 54, 54, 0.8); }
+
+/*# sourceMappingURL=index.css.map */
